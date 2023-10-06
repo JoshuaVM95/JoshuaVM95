@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am Joshua Vazquez Maru, a Web Developer with the most experience in React. \
-I have been working as a Software Developer for almost 4 years. \
+I have been working as a Software Developer for almost 5 years. \
 I have experience working in Front-End development and Backe-End development, but my expertise is in FE development. \
 I have also had the chance to work on some mobile applications with React Native. \
 And right now I am focusing on learning DevOps and cloud.
